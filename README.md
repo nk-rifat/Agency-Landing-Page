@@ -24,6 +24,7 @@ This project is built using React with Vite and styled using Tailwind CSS v4. Th
 
 ## Folder Structure
 
+```text
 src/
 │
 ├── assets/ 
