@@ -4,7 +4,7 @@ const IconFacebook = ({ className }) => {
       className={className}
       fill="currentColor"
       viewBox="0 0 24 24"
-      ariaHidden="true"
+      aria-hidden="true"
     >
       <path
         fillRule="evenodd"

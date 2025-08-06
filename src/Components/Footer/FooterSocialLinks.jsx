@@ -16,11 +16,11 @@ const FooterSocialLinks = () => {
   return (
     <ul className="flex justify-center mt-5 space-x-5">
       {socialIcon.map((social, index) => (
-        <li>
+        <li key={index}>
           <a
-            key={index}
+            
             href="#"
-            class="text-gray-500 hover:text-gray-900 dark:hover:text-white dark:text-gray-400"
+            className="text-gray-500 hover:text-gray-900 dark:hover:text-white dark:text-gray-400"
           >
             {social}
           </a>
