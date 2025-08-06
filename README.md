@@ -1,6 +1,7 @@
 This project is built using React with Vite and styled using Tailwind CSS v4. The goal of the project is to convert a static `index.html` layout into reusable and organized React components.
 
 ## Features
+```text
 
 ✅ React project created with Vite
 ✅ Tailwind CSS v4 integration
